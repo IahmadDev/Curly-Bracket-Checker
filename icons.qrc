@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon.png</file>
+        <file>About-icon.png</file>
+        <file>brackets-icon.png</file>
+        <file>help-icon.png</file>
+    </qresource>
+</RCC>
