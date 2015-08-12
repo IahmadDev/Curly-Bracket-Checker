@@ -1,0 +1,1 @@
+This is preatty much useless. i mean readme.
